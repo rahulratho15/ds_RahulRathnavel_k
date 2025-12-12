@@ -1,6 +1,6 @@
 # Crypto Sentiment & Trader Behavior Analysis
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Crypto+Sentiment+Analysis+Pipeline)
+
 
 > **Decoding the correlation between Bitcoin market sentiment and trader profitability through advanced data analytics.**
 
