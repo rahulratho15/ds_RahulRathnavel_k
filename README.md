@@ -1,6 +1,6 @@
 # Crypto Sentiment & Trader Behavior Analysis
 
-
+Google colab link:- https://colab.research.google.com/drive/1AgzWp1V8gQuXTCnNVvjLqCvUmlQIm7v4?usp=sharing
 
 > **Decoding the correlation between Bitcoin market sentiment and trader profitability through advanced data analytics.**
 
@@ -193,5 +193,4 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License & Acknowledgements
 
 *   **Author**: Rahul Rathnavel
-*   **License**: Distributed under the MIT License.
 *   **Data Sources**: Hyperliquid (Trading Data), Alternative.me (Fear & Greed Index).
